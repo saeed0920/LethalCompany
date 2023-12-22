@@ -30,7 +30,7 @@ Before you begin, ensure you have Git installed on your machine. You can downloa
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/learn-git-push-pull.git
+   git clone https://github.com/saeed0920/LethalCompany.git
    ```
 
 2. Push Changes
